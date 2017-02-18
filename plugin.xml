@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">Sample Plugin</label>
+    <label lang="en">Sample Plugin</label>
+    <version>0.0.1</version>
+    <copyright>Sebastian Garske</copyright>
+    <license>MIT</license>
+    <link>https://github.com/shyim/shopware-profiler</link>
+    <author>Sebastian Garske</author>
+</plugin>
